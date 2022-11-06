@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com Java , Spring Boot e VueJS
 - 🌱 Estudando Scrum, XP e Vue3
 - 📫 contate-me no email jorge@jstec.dev.br
-- 😄 Pronouns: ele/dele
+
 
 <div>
   <a href="https://beacons.ai/JS-Nascimento">
