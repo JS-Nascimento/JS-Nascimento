@@ -23,4 +23,5 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
 </div>
+  
 ![snake gif](https://github.com/JS-Nascimento/JS-Nascimento/blob/output/github-contribution-grid-snake.svg)
