@@ -1,6 +1,6 @@
 ### Olá sou Jorge Nascimento
 
-- 🔭 Hoje trabalho com Java , Spring Boot e VueJS
+- 🔭 Hoje trabalho com Java , Spring Boot, React e VueJS
 - 🌱 Estudando Scrum, XP e Vue3
 - 📫 contate-me no email jorge@jstec.dev.br
 
